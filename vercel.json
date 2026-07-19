@@ -1,1 +1,10 @@
-
+{
+  "rewrites": [
+    { "source": "/", "destination": "/index.html" },
+    { "source": "/cybersecurity.html", "destination": "/cybersecurity.html" },
+    { "source": "/uiux.html", "destination": "/uiux.html" },
+    { "source": "/development.html", "destination": "/development.html" },
+    { "source": "/blog.html", "destination": "/blog.html" },
+    { "source": "/contact.html", "destination": "/contact.html" }
+  ]
+}
